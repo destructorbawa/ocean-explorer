@@ -1,31 +1,31 @@
 
 ```markdown
-# Ocean Explorer – Portfolio Hero Website
+# Ocean Explorer
 
-**Live Demo:** Coming soon
+**Live Demo:** _Coming soon_
 
-Ocean Explorer is a fully responsive React + Tailwind CSS website that highlights the beauty of Earth's oceans through immersive video backgrounds, smooth transitions, and modern UI design. This project is built to showcase destinations, provide a rich user experience, and demonstrate front-end skills through performance, responsiveness, and interactivity.
+Ocean Explorer is a fully responsive single-page website built with **React**, **Tailwind CSS**, and **Framer Motion**. Designed to highlight the beauty and depth of Earth’s oceans, this project combines immersive video backgrounds, animated transitions, and a modern layout to create an engaging user experience.
 
-## Features
+## ✦ Key Features
 
-- Fullscreen looping video background with ambient visuals
-- Scroll-triggered animations using Framer Motion
-- Responsive layout optimized for mobile, tablet, and desktop
+- Fullscreen background video with ambient visuals
+- Scroll-triggered section animations via Framer Motion
 - Smooth in-page navigation with animated scroll
-- Visually enhanced "Places to Visit" and "Featured Locations" sections
-- Contact form with styled inputs and hover animations
-- Sticky navigation with mobile-friendly toggle menu
-- Modern glassmorphism overlays and hover effects
+- Modern responsive layout across all screen sizes
+- Custom "Places to Visit" and "Featured Locations" video grids
+- Glassmorphism effects and elegant hover interactions
+- Contact form with styled inputs and responsive validation
+- Mobile-friendly navigation with toggle menu
 
-## Technologies Used
+##  Technologies
 
-- React.js (with Vite)
-- Tailwind CSS
-- Framer Motion
-- HTML5 / CSS3
-- JavaScript (ES6+)
+- **React.js** (with Vite)
+- **Tailwind CSS**
+- **Framer Motion**
+- **HTML5 & CSS3**
+- **JavaScript (ES6+)**
 
-## Project Structure
+##  Project Structure
 
 ```
 
@@ -34,7 +34,8 @@ public/
 ├── maldives.mp4
 ├── iceland.mp4
 ├── reef.mp4
-└── other video assets
+├── santorini.mp4
+└── other video assets...
 
 src/
 ├── App.jsx
@@ -43,27 +44,34 @@ src/
 
 ````
 
-## Getting Started
+## ✦ Getting Started
 
-To run this project locally:
+To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/ocean-explorer-hero.git
-cd ocean-explorer-hero
+git clone https://github.com/yourusername/ocean-explorer.git
+cd ocean-explorer
 npm install
 npm run dev
 ````
 
-## Deployment
+Then visit `http://localhost:5173` in your browser.
 
-This project is ready to be deployed using platforms like Vercel, Netlify, or GitHub Pages. Assets are stored in the `public` folder, and the app is optimized for production using Vite.
+## ✦ Deployment
 
-## License
+This project is production-ready and can be deployed using platforms such as:
 
-This project is licensed under the MIT License.
+* **Vercel**
+* **Netlify**
+* **GitHub Pages**
+
+Static assets are stored in the `public/` folder, and the site is optimized using **Vite**.
+
+## ✦ License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Developed by Muhammad Saad
+**Developed by Muhammad Saad**
 
-```
