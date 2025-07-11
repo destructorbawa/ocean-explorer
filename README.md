@@ -4,9 +4,11 @@
 
 **Live Demo:** _Coming soon_
 
-Ocean Explorer is a fully responsive single-page website built with **React**, **Tailwind CSS**, and **Framer Motion**. Designed to highlight the beauty and depth of Earth’s oceans, this project combines immersive video backgrounds, animated transitions, and a modern layout to create an engaging user experience.
+Ocean Explorer is a fully responsive single-page website built with **React**, **Tailwind CSS**, and **Framer Motion**. 
+Designed to highlight the beauty and depth of Earth’s oceans, this project combines immersive video backgrounds, 
+animated transitions, and a modern layout to create an engaging user experience.
 
-## ✦ Key Features
+##  Key Features
 
 - Fullscreen background video with ambient visuals
 - Scroll-triggered section animations via Framer Motion
@@ -44,7 +46,7 @@ src/
 
 ````
 
-## ✦ Getting Started
+##  Getting Started
 
 To run the project locally:
 
@@ -57,7 +59,7 @@ npm run dev
 
 Then visit `http://localhost:5173` in your browser.
 
-## ✦ Deployment
+##  Deployment
 
 This project is production-ready and can be deployed using platforms such as:
 
@@ -67,7 +69,7 @@ This project is production-ready and can be deployed using platforms such as:
 
 Static assets are stored in the `public/` folder, and the site is optimized using **Vite**.
 
-## ✦ License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
