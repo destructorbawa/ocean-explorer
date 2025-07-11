@@ -1,7 +1,7 @@
 
 # Ocean Explorer
 
-**Live Demo:** _Coming soon_
+**Live Demo:** [View Website](https://destructorbawa.github.io/ocean-explorer/)
 
 Ocean Explorer is a fully responsive single-page website built with **React**, **Tailwind CSS**, and **Framer Motion**. 
 Designed to highlight the beauty and depth of Earth’s oceans, this project combines immersive video backgrounds, 
