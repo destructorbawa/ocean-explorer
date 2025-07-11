@@ -1,5 +1,4 @@
 
-```markdown
 # Ocean Explorer
 
 **Live Demo:** _Coming soon_
