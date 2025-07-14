@@ -1,7 +1,7 @@
 
 # Ocean Explorer
 
-> **Live Demo**  
+ **Live Demo**  
 [![View Live](https://img.shields.io/badge/View%20Live-%231DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://saadmdev.github.io/ocean-explorer/)
 
 Ocean Explorer is a fully responsive single-page website built with **React**, **Tailwind CSS**, and **Framer Motion**. 
